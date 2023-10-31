@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SubmissionDicoding</string>
+    <string name="gambar_story">gambar_story</string>
+    <string name="or">or</string>
+    <string name="register">Register</string>
+    <string name="dont_have_account">Dont Have Account?</string>
+    <string name="create_your_account">Create Your Account</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_have_account">Already Have Account?</string>
+    <string name="login">Login</string>
+    <string name="masuk">Masuk</string>
+    <string name="enter_email">Login Your Account</string>
+    <string name="enter_password">Masukkan email</string>
+    <string name="login_your_account">Masukkan password</string>
+    <string name="succes">Succes</string>
+    <string name="failed">Failed</string>
+    <string name="upload">Upload</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="retry">Retry</string>
+</resources>

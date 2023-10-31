@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/transparent" /> <!-- Warna latar belakang transparan -->
+    <corners android:radius="16dp" /> <!-- Atur radius sudut tumpul sesuai kebutuhan Anda -->
+    <stroke
+        android:width="2dp"
+        android:color="@color/black" />
+</shape>
